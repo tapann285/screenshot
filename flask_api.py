@@ -21,7 +21,7 @@ def index():
         image.show()
           
         # To save the screenshot
-        image.save(r"C:\Users\tapan.gupta\Desktop\t1.png")
+        # image.save(r"C:\Users\tapan.gupta\Desktop\t1.png")
 
 
     except:
